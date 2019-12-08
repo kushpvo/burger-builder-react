@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/burger-builder-react/static/css/main.61cfd1c3.chunk.css",
+    "main.js": "/burger-builder-react/static/js/main.73473deb.chunk.js",
+    "main.js.map": "/burger-builder-react/static/js/main.73473deb.chunk.js.map",
+    "runtime~main.js": "/burger-builder-react/static/js/runtime~main.274c7a2f.js",
+    "runtime~main.js.map": "/burger-builder-react/static/js/runtime~main.274c7a2f.js.map",
+    "static/css/2.266e55a5.chunk.css": "/burger-builder-react/static/css/2.266e55a5.chunk.css",
+    "static/js/2.99592f09.chunk.js": "/burger-builder-react/static/js/2.99592f09.chunk.js",
+    "static/js/2.99592f09.chunk.js.map": "/burger-builder-react/static/js/2.99592f09.chunk.js.map",
+    "index.html": "/burger-builder-react/index.html",
+    "precache-manifest.7c9ddbaf386b1328dc7821ca9c64b702.js": "/burger-builder-react/precache-manifest.7c9ddbaf386b1328dc7821ca9c64b702.js",
+    "service-worker.js": "/burger-builder-react/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/burger-builder-react/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.61cfd1c3.chunk.css.map": "/burger-builder-react/static/css/main.61cfd1c3.chunk.css.map",
+    "static/media/burger-logo.png": "/burger-builder-react/static/media/burger-logo.b8503d26.png"
+  }
+}
